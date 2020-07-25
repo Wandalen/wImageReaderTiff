@@ -3,5 +3,5 @@ let _ = require( 'wimagereadertiff' );
 
 /**/
 
-___
+console.log( '___ not implemented ___' );
 
